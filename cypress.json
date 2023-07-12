@@ -1,0 +1,12 @@
+{
+  "cypress-watch-and-reload": {
+    "watch": "src/**/*.js"
+  },
+  "env": {
+    "cypress-react-selector": {
+      "root": "#root"
+    },
+    "URL": "http://localhost:3000",
+    "API": "http://localhost:9000"
+  }
+}
